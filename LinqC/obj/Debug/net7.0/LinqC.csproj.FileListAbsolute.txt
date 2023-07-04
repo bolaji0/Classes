@@ -1,0 +1,15 @@
+/Users/mustapha/Projects/LinqC/LinqC/bin/Debug/net7.0/LinqC
+/Users/mustapha/Projects/LinqC/LinqC/bin/Debug/net7.0/LinqC.deps.json
+/Users/mustapha/Projects/LinqC/LinqC/bin/Debug/net7.0/LinqC.runtimeconfig.json
+/Users/mustapha/Projects/LinqC/LinqC/bin/Debug/net7.0/LinqC.dll
+/Users/mustapha/Projects/LinqC/LinqC/bin/Debug/net7.0/LinqC.pdb
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.csproj.AssemblyReference.cache
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.AssemblyInfoInputs.cache
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.AssemblyInfo.cs
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.csproj.CoreCompileInputs.cache
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.dll
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/refint/LinqC.dll
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.pdb
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/LinqC.genruntimeconfig.cache
+/Users/mustapha/Projects/LinqC/LinqC/obj/Debug/net7.0/ref/LinqC.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqC", "LinqC\LinqC.csproj", "{7732551B-BCC2-4F78-AF7A-3A494131DA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqC2", "LinqC2\LinqC2.csproj", "{D9F3F537-2273-4143-9874-D2CEE610C7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7732551B-BCC2-4F78-AF7A-3A494131DA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7732551B-BCC2-4F78-AF7A-3A494131DA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7732551B-BCC2-4F78-AF7A-3A494131DA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7732551B-BCC2-4F78-AF7A-3A494131DA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F3F537-2273-4143-9874-D2CEE610C7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F3F537-2273-4143-9874-D2CEE610C7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F3F537-2273-4143-9874-D2CEE610C7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F3F537-2273-4143-9874-D2CEE610C7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BC7DC0-ACAC-4BF1-AA71-71100CE89494}
+	EndGlobalSection
+EndGlobal

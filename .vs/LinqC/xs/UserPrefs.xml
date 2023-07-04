@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7732551B-BCC2-4F78-AF7A-3A494131DA56}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LinqC2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LinqC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqC/Program.cs">
+    <Files>
+      <File FileName="LinqC/Program.cs" Line="21" Column="27" />
+      <File FileName="LinqC/Car.cs" Line="12" Column="13" />
+      <File FileName="LinqC/DemoModifiers.cs" Line="19" Column="19" />
+      <File FileName="LinqC/chef.cs" Line="8" Column="19" />
+      <File FileName="LinqC2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqC" expanded="True">
+            <Node name="LinqC" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LinqC2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
